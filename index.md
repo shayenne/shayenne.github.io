@@ -2,6 +2,8 @@
 layout: default
 ---
 
+| [BIO](biography.md)           | [GROUP](http://compmus.ime.usp.br)         | [OTHER LINK]          |
+
 [BIO](biography.md)	[GROUP](http://compmus.ime.usp.br)
 
 
