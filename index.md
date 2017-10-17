@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[BIO](biography.md)	[GROUP](http://compmus.ime.usp.br)
+
+
 # NEWS
 
 
