@@ -2,4 +2,4 @@ title: Shayenne Moura
 description: Computer Music Researcher.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-architect
+remote_theme: old-jekyll-templates/Read-Only-Jekyll-Theme
